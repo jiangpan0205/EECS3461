@@ -1,6 +1,6 @@
 # EECS3461
 
-These two assignments was group work by three students. I designed the UI and UX and did part of code with my group member.
+These two assignments was group work by three students. I designed the UI and UX and did part of code with my partners.
 
 Assignment 1:
 The goal is to create a Java application for a Parking Permit Kiosk. Like most kiosks, interaction is via a touch screen. The system’s keyboard is not used. For this assignment, we’ll use point-and-click operations with the mouse to simulate a touch screen.
